@@ -13,7 +13,7 @@
 ---
 
 ## 🔥 **About Black Hacker**
-**Black Hacker** ek **Instagram Password Tester Tool** hai jo **Termux** me **Selenium WebDriver** ka use karke **fast password testing** karta hai.  
+**Black Hacker** ek **Instagram Password Hack Tool** hai jo **Termux** me **Selenium WebDriver** ka use karke **fast password hacking** karta hai.  
 💀 **⚠ Warning:** Ye tool sirf **educational aur ethical security testing** ke liye hai!  
 
 ---
